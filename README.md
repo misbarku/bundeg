@@ -1,2 +1,0 @@
-# samanyougarg
-simba and garpol
